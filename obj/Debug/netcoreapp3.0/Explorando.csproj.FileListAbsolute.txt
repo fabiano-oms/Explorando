@@ -1,0 +1,11 @@
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.exe
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.deps.json
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.runtimeconfig.json
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.runtimeconfig.dev.json
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.dll
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\bin\Debug\netcoreapp3.0\Explorando.pdb
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\obj\Debug\netcoreapp3.0\Explorando.csprojAssemblyReference.cache
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\obj\Debug\netcoreapp3.0\Explorando.AssemblyInfoInputs.cache
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\obj\Debug\netcoreapp3.0\Explorando.AssemblyInfo.cs
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\obj\Debug\netcoreapp3.0\Explorando.dll
+C:\Users\Fabiano\Desktop\GITHUB\Explorando\obj\Debug\netcoreapp3.0\Explorando.pdb
